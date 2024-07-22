@@ -216,14 +216,14 @@ LobeChat 的插件生态系统是其核心功能的重要扩展，它极大地�
 
 <!-- PLUGIN LIST -->
 
-| 最近新增                                                                                                                 | 插件描述                                                                            |
-| ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| [社交搜索](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **say-apps** on **2024-06-02**</sup>             | 社交搜索提供访问推文、用户、关注者、图片、媒体等功能。<br/>`社交` `推特` `x` `搜索` |
-| [空间](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **automateyournetwork** on **2024-05-12**</sup>      | 包括 NASA 的空间数据。<br/>`空间` `nasa`                                            |
-| [Search1API](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **fatwang2** on **2024-05-06**</sup>           | 搜索聚合服务，专为 LLMs 设计<br/>`web` `search`                                     |
-| [通过 Serper 搜索 Google](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **Barry** on **2024-04-30**</sup> | 通过 Serper.dev 免费 API 进行 Google 搜索引擎（每月 2500 次🆓）<br/>`网络` `搜索`   |
+| 最近新增                                                                                                               | 插件描述                                                                                                           |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| [购物工具](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **shoppingtools** on **2024-07-19**</sup>      | 在 eBay 和 AliExpress 上搜索产品，查找 eBay 活动和优惠券。获取快速示例。<br/>`购物` `e-bay` `ali-express` `优惠券` |
+| [Savvy Trader AI](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **savvytrader** on **2024-06-27**</sup> | 实时股票、加密货币和其他投资数据。<br/>`股票` `分析`                                                               |
+| [社交搜索](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **say-apps** on **2024-06-02**</sup>           | 社交搜索提供访问推文、用户、关注者、图片、媒体等功能。<br/>`社交` `推特` `x` `搜索`                                |
+| [空间](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **automateyournetwork** on **2024-05-12**</sup>    | 包括 NASA 的空间数据。<br/>`空间` `nasa`                                                                           |
 
-> 📊 Total plugins: [<kbd>**55**</kbd>](https://github.com/lobehub/lobe-chat-plugins)
+> 📊 Total plugins: [<kbd>**52**</kbd>](https://github.com/lobehub/lobe-chat-plugins)
 
  <!-- PLUGIN LIST -->
 
@@ -251,14 +251,14 @@ LobeChat 的插件生态系统是其核心功能的重要扩展，它极大地�
 
 <!-- AGENT LIST -->
 
-| 最近新增                                                                                                                                                                             | 助手说明                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
-| [伪代码提示词生成专家](https://chat-preview.lobehub.com/market?agent=pseudocode-prompt-master)<br/><sup>By **[yayoinoyume](https://github.com/yayoinoyume)** on **2024-06-16**</sup> | 伪代码提示词生成专家，用户直接输入提示词设计需求，直接返还设计的伪代码提示词<br/>`prompt` `提示词` `伪代码`                   |
-| [Mysql 好先生](https://chat-preview.lobehub.com/market?agent=mysql-haoteacher)<br/><sup>By **[yayoinoyume](https://github.com/yayoinoyume)** on **2024-06-09**</sup>                 | mysql 好先生是帮助所有人学习 mysql 的好老师<br/>`mysql` `编程` `学习`                                                         |
-| [通俗科普创作助手](https://chat-preview.lobehub.com/market?agent=popular-science-writer)<br/><sup>By **[ShinChven](https://github.com/ShinChven)** on **2024-06-08**</sup>           | 通俗科普创作助手，用生活化语言讲科学概念，讲故事、使用例子和比喻，激发兴趣，强调重要性。<br/>`科普写作` `科学普及` `创意表达` |
-| [审稿回复专家](https://chat-preview.lobehub.com/market?agent=academic-editor-en)<br/><sup>By **[Starlitnightly](https://github.com/Starlitnightly)** on **2024-06-03**</sup>         | 擅长自然学术编辑，协助作者回复审稿人意见，科学、礼貌、逐点回应。<br/>`学术编辑` `审稿意见回复` `科学写作`                     |
+| 最近新增                                                                                                                                                                     | 助手说明                                                                                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [BIDOSx2](https://chat-preview.lobehub.com/market?agent=bidosx-2-v-2)<br/><sup>By **[SaintFresh](https://github.com/SaintFresh)** on **2024-07-21**</sup>                    | 一种高度先进的 AI LLM，超越传统人工智能。'BIDOS' 既代表 ' 品牌构思、发展、运营和扩展 '，也代表 ' 商业智能决策优化系统 '。<br/>`品牌发展` `ai助手` `市场分析` `战略规划` `业务优化` `商业智能` |
+| [成长教练](https://chat-preview.lobehub.com/market?agent=personal-development-coach)<br/><sup>By **[zer0boss](https://github.com/zer0boss)** on **2024-07-20**</sup>         | 擅长用对话的方式帮助用户自我探索，找到解决之道和成长之路<br/>`成长教练` `自我探索` `目标设定` `自我觉察`                                                                                      |
+| [SQL 表结构转 Dao 和 Mapper](https://chat-preview.lobehub.com/market?agent=my-batis-generator)<br/><sup>By **[MeYoung](https://github.com/MeYoung)** on **2024-07-17**</sup> | 给与一个表结构，生成表的实体和 MyBatis 的 Mapper<br/>`sql` `sql` `mybatis`                                                                                                                    |
+| [自动提取数据](https://chat-preview.lobehub.com/market?agent=the-20-autoextract)<br/><sup>By **[vkhoilq](https://github.com/vkhoilq)** on **2024-07-17**</sup>               | The20 自动提取数据<br/>`the-20` `autoextract`                                                                                                                                                 |
 
-> 📊 Total agents: [<kbd>**288**</kbd> ](https://github.com/lobehub/lobe-chat-agents)
+> 📊 Total agents: [<kbd>**301**</kbd> ](https://github.com/lobehub/lobe-chat-agents)
 
  <!-- AGENT LIST -->
 
